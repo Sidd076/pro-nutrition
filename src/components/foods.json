@@ -1,0 +1,64 @@
+[
+    {
+      "name": "Pizza",
+      "calories": 400,
+      "image": "https://i.imgur.com/eTmWoAN.png",
+      "quantity": 0
+    },
+    {
+      "name": "Salad",
+      "calories": 150,
+      "image": "https://i.imgur.com/DupGBz5.jpg",
+      "quantity": 0
+    },
+    {
+      "name": "Sweet Potato",
+      "calories": 120,
+      "image": "https://i.imgur.com/hGraGyR.jpg",
+      "quantity": 0
+    },
+    {
+      "name": "Gnocchi",
+      "calories": 500,
+      "image": "https://i.imgur.com/93ekwW0.jpg",
+      "quantity": 0
+    },
+    {
+      "name": "Pot Roast",
+      "calories": 350,
+      "image": "https://i.imgur.com/WCzJDWz.jpg",
+      "quantity": 0
+    },
+    {
+      "name": "Spaghetti Bolognese",
+      "calories": 600,
+      "image": "https://i.imgur.com/OLAue2F.jpeg",
+      "quantity": 0
+    },
+    {
+      "name": "Glazed Salmon",
+      "calories": 250,
+      "image": "https://i.imgur.com/ZX597ul.jpeg",
+      "quantity": 0
+    },
+    {
+      "name": "Asparagus",
+      "calories": 30,
+      "image": "https://i.imgur.com/vjYvz4x.png",
+      "quantity": 0
+    },
+    {
+      "name": "Beet Salad",
+      "calories": 55,
+      "image": "https://i.imgur.com/OtXyaSw.jpeg",
+      "quantity": 0
+    },
+    {
+      "name": "Hamburger",
+      "calories": 400,
+      "image": "https://i.imgur.com/0HsXzGf.jpeg",
+      "quantity": 0
+    }
+      ,{    "name": "Grilled Chicken Breast",    "calories": 150,    "image": "https://i.imgur.com/WyuvrLH.png",    "quantity": 0  },  {    "name": "Steak",    "calories": 450,    "image": "https://i.imgur.com/LjXYD4X.jpeg",    "quantity": 0  },  {    "name": "Prawn Stir Fry",    "calories": 200,    "image": "https://i.imgur.com/AsmMa70.jpeg",    "quantity": 0  },  {    "name": "Tacos",    "calories": 300,    "image": "https://i.imgur.com/AAlsNIj.jpeg",    "quantity": 0  },  {    "name": "Fish and Chips",    "calories": 700,    "image": "https://i.imgur.com/4wnzML7.jpeg",    "quantity": 0  },  {    "name": "Pork Chops",    "calories": 350,    "image": "https://i.imgur.com/3Zu0lAe.jpeg",    "quantity": 0  },  {    "name": "Chicken Fajitas",    "calories": 400,    "image": "https://i.imgur.com/j6r5G59.jpeg",    "quantity": 0  },  {    "name": "Baked Ziti",    "calories": 500,    "image": "https://i.imgur.com/nzONHqA.jpeg",    "quantity": 0  },  {    "name": "Chicken Stew",    "calories": 350,    "image": "https://i.imgur.com/sMymMt4.jpeg",    "quantity": 0  },  {    "name": "Shawarma",    "calories": 450,    "image": "https://i.imgur.com/vMZdX9V.png",    "quantity": 0  }
+  
+  ]
